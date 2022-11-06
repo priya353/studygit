@@ -17,4 +17,9 @@ public class First {
 		System.out.println("five");
 	}
 
+	private void six() {
+		System.out.println("six")
+	}
+	private void seven() {
+		System.out.println("seven")}
 }
