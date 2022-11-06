@@ -10,6 +10,13 @@ public class First {
 	private void three() {
 		System.out.println("three");
 	}
+	private void four() {
+		System.out.println("four");
+	}
+	private void five() {
+		System.out.println("five");
+	}
+
 	private void six() {
 		System.out.println("six")
 	}
