@@ -1,1 +1,1 @@
-# studygit
+# studygit by PRIYA
